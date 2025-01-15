@@ -1,3 +1,7 @@
+# Tampilan 
+[Dashboard](images/dashboard.png)
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
